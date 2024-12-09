@@ -74,3 +74,8 @@ The results of the model training are analyzed:
 - Compiling and displaying summary statistics for intensity and location predictions.
 
 This project provides valuable insights into cyclone behavior and demonstrates the application of machine learning techniques for cyclone prediction, which has significant implications for early warning systems and disaster management.
+
+## References
+
+- Moving Pandas Documentation: The moving pandas library was instrumental in processing spatiotemporal data and creating trajectory objects. Its official documentation provides a comprehensive guide to trajectory based data analysis and visualization. [Available here](https://movingpandas.org/).
+- Variational RNN for Cyclones: This repository inspired the machine learning approach to spatiotemporal cyclone tracking. It explores advanced deep learning models for analyzing cyclone trajectories and intensity changes. [Available here](https://github.com/DARE-ML/variational-rnn-cyclones/tree/main).

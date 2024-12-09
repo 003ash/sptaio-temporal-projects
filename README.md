@@ -2,7 +2,17 @@
 
 This repository contains Jupyter notebooks for analyzing and predicting cyclone trajectories using MovingPandas and Variational Recurrent Neural Networks (VaRNN).
 
-## Table of Contents
+## Table of Contents - Moving Pandas Exploration
+- Installation and basic setup  
+- Defining and working with trajectory objects  
+- Loading and processing GPS trajectory data  
+- Plotting, speed calculation, and smoothing  
+- Splitting, clipping, and generalizing trajectories  
+- Using hvplot for interactive plotting and creating animations  
+- Calculating distances and identifying intersections between trajectories  
+
+
+## Table of Contents - Cyclone Tracking
 - Introduction
 - Installation
 - Data Preparation
